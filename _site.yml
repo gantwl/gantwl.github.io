@@ -6,10 +6,13 @@ navbar:
   left:
     - text: "Resume"
       href: resume.html
-    - text: "Pagetitle"
-      href: pagename.html
-
+    - text: "Projects"
+      href: research.html
+  right:
+    - text: ""
+      icon: fa-github
+      href: https://github.com/gantwl
 output:
   html_document:
-    theme: default
-    highlight: default
+    theme: flatly
+    highlight: zenburn

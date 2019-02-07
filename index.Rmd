@@ -1,5 +1,13 @@
 ---
-title: "My Website"
+title: "About Me"
 ---
 
-Hello, Website!
+My name is Luke Gant. I am a senior international and comparative politics major at Appalachian States University. I have interests in International Relief and International Non-profit's. I am also Microsoft Excel and Access certified and familiar with analysis programs such as R and R studio. Living in the high country for the past 4 years has made me appreciate the outdoors and enjoy activities such as hiking, fishing, and camping.
+
+***
+
+#Contact Information
+
+-     e-mail: lukegantnc@gmail.com
+
+-     [Linkedin](https://www.linkedin.com/in/william-gant-686512175/)
