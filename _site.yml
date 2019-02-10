@@ -12,6 +12,9 @@ navbar:
     - text: ""
       icon: fa-github
       href: https://github.com/gantwl
+    - text:
+      icon:  ![](square-linkedin-512.png)
+      href: https://www.linkedin.com/in/william-gant-686512175/
 output:
   html_document:
     theme: flatly

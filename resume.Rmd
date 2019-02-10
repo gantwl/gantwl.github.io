@@ -2,3 +2,37 @@
 title: "Resume"
 ---
 
+## Luke Gant
+
+lukegantnc@gmail.com
+
+### Education
+
+* B.S. Political Science: International and Comparative Politics / minor: Statistics (Graduating, December 2019)
+  * Appalachian State University
+
+### Skills
+#### Efficient In:
+##### Technology
+
+  * Microsoft Excel certified
+  * Microsoft Office (Word, Access, powerpoint, Excel)
+  * R and R Studio
+  * SPSS
+
+##### Studies
+  * Statistical Analysis in R, R Studio, and Microsoft Excel
+  * Political Theory
+  * Foreign Policy
+  * Campaigns / American Politics
+  * International Political Systems
+  * Political Analytics
+
+
+### Work Experience
+
+* Prep-Cook: YAFO Kitchen 
+    * Worked with a team doing customer service, food preperation, and cleaning.
+
+* Team Member: Salsaritas Fresh Cantina
+    * Worked with a team doing customer service, food preperation, and cleaning.
